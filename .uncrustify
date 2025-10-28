@@ -1,0 +1,4 @@
+**uncrustify pic**
+
+in(file[sconpression.cpp]) == %run%
+in(file[sconpression.py]) == %run%
